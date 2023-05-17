@@ -14,6 +14,7 @@
 		6891735B2A152DCD00068B53 /* VelardeColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 689173592A152DCD00068B53 /* VelardeColeccionDeJuegos.xcdatamodeld */; };
 		6891735D2A152DCF00068B53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6891735C2A152DCF00068B53 /* Assets.xcassets */; };
 		689173602A152DCF00068B53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6891735E2A152DCF00068B53 /* LaunchScreen.storyboard */; };
+		689173682A153BED00068B53 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 689173672A153BED00068B53 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6891735C2A152DCF00068B53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6891735F2A152DCF00068B53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		689173612A152DCF00068B53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		689173672A153BED00068B53 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				6891735E2A152DCF00068B53 /* LaunchScreen.storyboard */,
 				689173612A152DCF00068B53 /* Info.plist */,
 				689173592A152DCD00068B53 /* VelardeColeccionDeJuegos.xcdatamodeld */,
+				689173672A153BED00068B53 /* JuegosViewController.swift */,
 			);
 			path = VelardeColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				689173682A153BED00068B53 /* JuegosViewController.swift in Sources */,
 				689173552A152DCD00068B53 /* ViewController.swift in Sources */,
 				6891735B2A152DCD00068B53 /* VelardeColeccionDeJuegos.xcdatamodeld in Sources */,
 				689173512A152DCD00068B53 /* AppDelegate.swift in Sources */,
